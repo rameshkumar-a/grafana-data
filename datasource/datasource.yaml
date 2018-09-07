@@ -21,7 +21,7 @@ datasources:
   # <string> database name, if used
   database: metrics
   # <bool> enable/disable basic auth
-  basicAuth: disable
-  withCredentials: disable
+  basicAuth: false
+  withCredentials: false
   # <bool> allow users to edit datasources from the UI.
   editable: false
