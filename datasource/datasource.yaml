@@ -9,7 +9,7 @@ datasources:
   # <string, required> datasource type. Required
   type: influxdb
   # <string, required> access mode. direct or proxy. Required
-  access: server
+  access: proxy
   # <int> org id. will default to orgId 1 if not specified
   orgId: 1
   # <string> url
@@ -22,6 +22,5 @@ datasources:
   database: metrics
   # <bool> enable/disable basic auth
   basicAuth: false
-  withCredentials: false
   # <bool> allow users to edit datasources from the UI.
   editable: false
