@@ -15,7 +15,7 @@ datasources:
   # <string> url
   url: http://influxdb:8086
   # <string> database password, if used
-  password: metrics
+  password: $influxdb_db_pass
   # <string> database user, if used
   user: metrics
   # <string> database name, if used
