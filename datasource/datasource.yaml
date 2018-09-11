@@ -22,5 +22,7 @@ datasources:
   database: metrics
   # <bool> enable/disable basic auth
   basicAuth: false
+  # <bool> mark as default datasource. Max one per org
+  isDefault: true
   # <bool> allow users to edit datasources from the UI.
   editable: true
