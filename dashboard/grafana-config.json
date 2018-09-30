@@ -70,7 +70,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "A",
@@ -107,7 +107,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "B",
@@ -144,7 +144,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "C",
@@ -181,7 +181,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "D",
@@ -218,7 +218,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "E",
@@ -255,7 +255,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "F",
@@ -369,7 +369,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "A",
@@ -486,7 +486,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "G",
@@ -523,7 +523,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "default",
           "refId": "H",
@@ -640,7 +640,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "D",
@@ -677,7 +677,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "F",
@@ -794,7 +794,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "B",
@@ -831,7 +831,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "C",
@@ -947,7 +947,7 @@
               "type": "fill"
             }
           ],
-          "measurement": "demo-Metrics-agent",
+          "measurement": "Client-Metrics",
           "orderByTime": "ASC",
           "policy": "autogen",
           "refId": "E",
